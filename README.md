@@ -9,6 +9,7 @@ A text editor is a type of program used for editing plain text files. Text edito
 ##### Program Specifications
 
 My Text Editor (MTE) is a common text-only (plain text) editor. The resulting files—typically saved with the .txt extension—have no format tags or styles, making the program suitable for editing system files and, and occasionally, source code for later compilation or execution. It is also useful for its negligible use of system resources; making for quick load time and processing time, especially on under-powered hardware. For simplification, MTE is a single document interface (SDI) with a menu and a large text area to typing. It allows user to save the content in ASCII or Unicode code with maximum 16Kb in size.
+
 |No|Name|Short description|Group in menu item|
 |--|----|---------------|-----------------|
 |1|New|Create an empty document|File|
@@ -25,6 +26,7 @@ My Text Editor (MTE) is a common text-only (plain text) editor. The resulting fi
 |12|Find|Find a text in the document|Edit|
 |13|Replace|Replace a text with another one|Edit|
 |14|Change font|Change the font of the editor (text typing area) | Edit|
+
 ##### Guidelines
 The following components should be used: JOptionPane, JTextArea, JFrame, JMenuBar, JFileChooser, JFontChooser
 ##### Expectation of User interface:
