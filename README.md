@@ -29,4 +29,4 @@ My Text Editor (MTE) is a common text-only (plain text) editor. The resulting fi
 The following components should be used: JOptionPane, JTextArea, JFrame, JMenuBar, JFileChooser, JFontChooser
 ##### Expectation of User interface:
 The user interfaces should be simple, familiar with normal user and it should look like: 
-![image interface](https://github.com/Sharp-Team/text-editor-javadesk-master/interface.png)
+![image interface](https://github.com/Sharp-Team/text-editor-javadesk-master/blob/master/interface.png)
